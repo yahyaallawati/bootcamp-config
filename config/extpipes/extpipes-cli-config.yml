@@ -46,7 +46,7 @@ rawdbs:
                   schedule: On trigger
                   contacts:
                       - name: Yahya Al Lawati
-                        emai: yahya.allawati@oq.com
+                        email: yahya.allawati@oq.com
                         role: Bootcamp 01 Administrator
                         send-notification: false
     - rawdb-name: src:002:opcua:db
@@ -62,6 +62,6 @@ rawdbs:
                   schedule: On trigger
                   contacts:
                       - name: Yahya Al Lawati
-                        emai: yahya.allawati@oq.com
+                        email: yahya.allawati@oq.com
                         role: Bootcamp 01 Administrator
                         send-notification: false
